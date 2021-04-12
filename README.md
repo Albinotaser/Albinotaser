@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @Albinotaser
-- 👀 I’m interested in Coding and football.
-- 🌱 I’m currently learning Javascript. 
-- 💞️ I’m looking to collaborate on Python projects for learning purposes.
-- 📫 How to reach me you can reach me on discord: CodePen#9730.
+
